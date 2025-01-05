@@ -8,10 +8,10 @@ using namespace std;
 class HelloITI
 {
 public:
-    void printHelloITI()
+    /*void printHelloITI()
     {
         cout << "Hello, ITI!" << endl;
-    }
+    }*/
 
     void printHelloGit()
     {
